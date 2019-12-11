@@ -1,0 +1,33 @@
+﻿<Window x:Class="PierwszeOkienko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PierwszeOkienko"
+        mc:Ignorable="d"
+        Title="Minifier" Height="450" Width="800" FontSize="16">
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="ProMinifier 1.0" FontSize="24" HorizontalAlignment="Center" Grid.ColumnSpan="2" />
+        <TextBox
+            x:Name="TbInput"
+            TextWrapping="Wrap"
+            AcceptsReturn="True"
+            VerticalScrollBarVisibility="Visible" Grid.Row="1" Grid.Column="0"></TextBox>
+        <TextBox
+            x:Name="TbOutput"
+            TextWrapping="Wrap"
+            AcceptsReturn="True"
+            VerticalScrollBarVisibility="Visible" Grid.Row="1" Grid.Column="1"></TextBox>
+        <Button x:Name="BtnMinify" Content="Minify!" Margin="20" Grid.Row="2" Grid.Column="0" Click="BtnMinify_OnClick"></Button>
+    </Grid>
+</Window>

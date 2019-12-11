@@ -1,0 +1,11 @@
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\bin\Debug\netcoreapp2.2\Collections.deps.json
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\bin\Debug\netcoreapp2.2\Collections.runtimeconfig.json
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\bin\Debug\netcoreapp2.2\Collections.runtimeconfig.dev.json
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\bin\Debug\netcoreapp2.2\Collections.dll
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\bin\Debug\netcoreapp2.2\Collections.pdb
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\obj\Debug\netcoreapp2.2\Collections.csprojAssemblyReference.cache
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\obj\Debug\netcoreapp2.2\Collections.csproj.CoreCompileInputs.cache
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\obj\Debug\netcoreapp2.2\Collections.AssemblyInfoInputs.cache
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\obj\Debug\netcoreapp2.2\Collections.AssemblyInfo.cs
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\obj\Debug\netcoreapp2.2\Collections.dll
+D:\Desktop\studia\bit.NET\Kolekcje\Collections\Collections\obj\Debug\netcoreapp2.2\Collections.pdb

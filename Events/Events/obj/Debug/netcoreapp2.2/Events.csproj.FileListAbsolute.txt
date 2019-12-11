@@ -1,0 +1,11 @@
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\bin\Debug\netcoreapp2.2\Events.deps.json
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\bin\Debug\netcoreapp2.2\Events.runtimeconfig.json
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\bin\Debug\netcoreapp2.2\Events.runtimeconfig.dev.json
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\bin\Debug\netcoreapp2.2\Events.dll
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\bin\Debug\netcoreapp2.2\Events.pdb
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\obj\Debug\netcoreapp2.2\Events.csprojAssemblyReference.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\obj\Debug\netcoreapp2.2\Events.csproj.CoreCompileInputs.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\obj\Debug\netcoreapp2.2\Events.AssemblyInfoInputs.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\obj\Debug\netcoreapp2.2\Events.AssemblyInfo.cs
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\obj\Debug\netcoreapp2.2\Events.dll
+D:\Desktop\studia\bit.NET\KodNaZajecia\events\Events\Events\obj\Debug\netcoreapp2.2\Events.pdb

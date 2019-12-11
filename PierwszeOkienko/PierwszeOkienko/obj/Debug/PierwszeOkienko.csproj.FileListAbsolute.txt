@@ -1,0 +1,15 @@
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\bin\Debug\PierwszeOkienko.exe.config
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\bin\Debug\PierwszeOkienko.exe
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\bin\Debug\PierwszeOkienko.pdb
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.csprojAssemblyReference.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\MainWindow.g.cs
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\App.g.cs
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko_MarkupCompile.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko_MarkupCompile.lref
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\MainWindow.baml
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.g.resources
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.Properties.Resources.resources
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.csproj.GenerateResource.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.csproj.CoreCompileInputs.cache
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.exe
+D:\Desktop\studia\bit.NET\KodNaZajecia\PierwszeOkienko\PierwszeOkienko\obj\Debug\PierwszeOkienko.pdb
